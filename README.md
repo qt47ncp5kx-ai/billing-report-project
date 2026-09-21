@@ -1,3 +1,7 @@
+## Project overview
+
+This project reads billing records from a CSV file and prints a summary
+report with the number of rows, the total amount billed and the total paid.
 # Billing Report Project
 
 ## Purpose
